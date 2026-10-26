@@ -1,0 +1,60 @@
+{
+  "session_date": "2026-10-19",
+  "contracts": [],
+  "indices": [
+    {
+      "index_code": "000300",
+      "sina_symbol": "sh000300",
+      "index_name": "沪深300",
+      "bars": 239,
+      "earliest": "2026-10-19 09:31:00",
+      "latest": "2026-10-19 15:00:00",
+      "missing_minutes": [
+        "14:59"
+      ],
+      "source": "sina",
+      "warnings": []
+    },
+    {
+      "index_code": "000016",
+      "sina_symbol": "sh000016",
+      "index_name": "上证50",
+      "bars": 239,
+      "earliest": "2026-10-19 09:31:00",
+      "latest": "2026-10-19 15:00:00",
+      "missing_minutes": [
+        "14:59"
+      ],
+      "source": "sina",
+      "warnings": []
+    },
+    {
+      "index_code": "000905",
+      "sina_symbol": "sh000905",
+      "index_name": "中证500",
+      "bars": 239,
+      "earliest": "2026-10-19 09:31:00",
+      "latest": "2026-10-19 15:00:00",
+      "missing_minutes": [
+        "14:59"
+      ],
+      "source": "sina",
+      "warnings": []
+    },
+    {
+      "index_code": "000852",
+      "sina_symbol": "sh000852",
+      "index_name": "中证1000",
+      "bars": 239,
+      "earliest": "2026-10-19 09:31:00",
+      "latest": "2026-10-19 15:00:00",
+      "missing_minutes": [
+        "14:59"
+      ],
+      "source": "sina",
+      "warnings": []
+    }
+  ],
+  "products_present": [],
+  "warnings": []
+}

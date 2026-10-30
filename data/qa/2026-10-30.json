@@ -1,0 +1,226 @@
+{
+  "session_date": "2026-10-30",
+  "contracts": [
+    {
+      "product": "IF",
+      "contract": "IF2611",
+      "expiry_month": "2026-11",
+      "slot": "00",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    },
+    {
+      "product": "IF",
+      "contract": "IF2612",
+      "expiry_month": "2026-12",
+      "slot": "01",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    },
+    {
+      "product": "IF",
+      "contract": "IF2703",
+      "expiry_month": "2027-03",
+      "slot": "02",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    },
+    {
+      "product": "IF",
+      "contract": "IF2706",
+      "expiry_month": "2027-06",
+      "slot": "03",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    },
+    {
+      "product": "IH",
+      "contract": "IH2611",
+      "expiry_month": "2026-11",
+      "slot": "00",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    },
+    {
+      "product": "IH",
+      "contract": "IH2612",
+      "expiry_month": "2026-12",
+      "slot": "01",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    },
+    {
+      "product": "IH",
+      "contract": "IH2703",
+      "expiry_month": "2027-03",
+      "slot": "02",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    },
+    {
+      "product": "IH",
+      "contract": "IH2706",
+      "expiry_month": "2027-06",
+      "slot": "03",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    },
+    {
+      "product": "IC",
+      "contract": "IC2611",
+      "expiry_month": "2026-11",
+      "slot": "00",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    },
+    {
+      "product": "IC",
+      "contract": "IC2612",
+      "expiry_month": "2026-12",
+      "slot": "01",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    },
+    {
+      "product": "IC",
+      "contract": "IC2703",
+      "expiry_month": "2027-03",
+      "slot": "02",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    },
+    {
+      "product": "IC",
+      "contract": "IC2706",
+      "expiry_month": "2027-06",
+      "slot": "03",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    },
+    {
+      "product": "IM",
+      "contract": "IM2611",
+      "expiry_month": "2026-11",
+      "slot": "00",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    },
+    {
+      "product": "IM",
+      "contract": "IM2612",
+      "expiry_month": "2026-12",
+      "slot": "01",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    },
+    {
+      "product": "IM",
+      "contract": "IM2703",
+      "expiry_month": "2027-03",
+      "slot": "02",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    },
+    {
+      "product": "IM",
+      "contract": "IM2706",
+      "expiry_month": "2027-06",
+      "slot": "03",
+      "bars": 240,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "warnings": []
+    }
+  ],
+  "indices": [
+    {
+      "index_code": "000300",
+      "sina_symbol": "sh000300",
+      "index_name": "沪深300",
+      "bars": 239,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "missing_minutes": [
+        "14:59"
+      ],
+      "source": "sina",
+      "warnings": []
+    },
+    {
+      "index_code": "000016",
+      "sina_symbol": "sh000016",
+      "index_name": "上证50",
+      "bars": 239,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "missing_minutes": [
+        "14:59"
+      ],
+      "source": "sina",
+      "warnings": []
+    },
+    {
+      "index_code": "000905",
+      "sina_symbol": "sh000905",
+      "index_name": "中证500",
+      "bars": 239,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "missing_minutes": [
+        "14:59"
+      ],
+      "source": "sina",
+      "warnings": []
+    },
+    {
+      "index_code": "000852",
+      "sina_symbol": "sh000852",
+      "index_name": "中证1000",
+      "bars": 239,
+      "earliest": "2026-10-30 09:31:00",
+      "latest": "2026-10-30 15:00:00",
+      "missing_minutes": [
+        "14:59"
+      ],
+      "source": "sina",
+      "warnings": []
+    }
+  ],
+  "products_present": [
+    "IC",
+    "IF",
+    "IH",
+    "IM"
+  ],
+  "warnings": []
+}

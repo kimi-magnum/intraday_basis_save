@@ -1,8 +1,0 @@
-{
-  "probe": true,
-  "session_date": "2026-11-22",
-  "run_at": "2026-11-22 12:38:41 +0800",
-  "source": "workbuddy scheduled automation",
-  "note": "云端定时任务试运行探针",
-  "workspace": "cloud"
-}
